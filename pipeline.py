@@ -1,1 +1,1 @@
-print ('my first')
+print ('my')
