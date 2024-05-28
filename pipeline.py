@@ -1,1 +1,1 @@
-print "my first pyhton job"
+print "my first pyhton"
