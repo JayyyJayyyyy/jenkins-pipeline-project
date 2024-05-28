@@ -18,7 +18,7 @@ pipeline {
         stage('deploy') {
             steps {
 
-                sh 'echo "hello" > deneme.txt'
+                sh 'echo "second " > deneme.txt'
 
             }
         }
