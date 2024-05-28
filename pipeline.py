@@ -1,1 +1,1 @@
-print ('my first pyhton')
+print ('my first')
